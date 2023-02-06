@@ -1,0 +1,139 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "PokemonLike.tsx",
+    "expandedProjectPaths": [
+        ".",
+        "archive"
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "DungeonCrawl_ProjectUtumnoTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "PokemonLike.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "archive/1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/Old man.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/PokemonLike.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/beast.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/breathe_energy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/recite.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "archive/безымянный.tmx": {
+            "scale": 1.2646875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.5848776871757,
+                "y": 239.58487768717572
+            }
+        },
+        "boxy_bold_font.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "boy1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dung.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.33333333333331
+            }
+        },
+        "dung.tmx#DungeonCrawl_ProjectUtumnoTileset": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "game.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.33333333333331
+            }
+        },
+        "mammoth.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "start_screen.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.3333333333333,
+                "y": 239.33333333333334
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Albert/PycharmProjects/pythonProject/maps",
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 4,
+    "map.tileWidth": 4,
+    "map.width": 60,
+    "openFiles": [
+        "PokemonLike.tsx",
+        "game.tmx",
+        "mammoth.tsx",
+        "DungeonCrawl_ProjectUtumnoTileset.tsx",
+        "dung.tmx",
+        "archive/PokemonLike.tsx"
+    ],
+    "project": "level1.tiled-project",
+    "recentFiles": [
+        "archive/PokemonLike.tsx",
+        "dung.tmx",
+        "DungeonCrawl_ProjectUtumnoTileset.tsx",
+        "mammoth.tsx",
+        "game.tmx",
+        "PokemonLike.tsx",
+        "archive/2.tsx",
+        "boxy_bold_font.tsx",
+        "start_screen.tmx",
+        "archive/recite.tsx",
+        "archive/Old man.tsx",
+        "archive/breathe_energy.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

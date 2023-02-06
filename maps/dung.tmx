@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="DungeonCrawl_ProjectUtumnoTileset" tilewidth="32" tileheight="32" tilecount="3072" columns="64">
+  <image source="DungeonCrawl_ProjectUtumnoTileset.png" width="2048" height="1536"/>
+ </tileset>
+ <tileset firstgid="3073" source="DungeonCrawl_ProjectUtumnoTileset.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxdk9GRgzAMRD0Jv9fAlUCAGAiNAi6CJJCK0kKSEk6evB0097FjLFnaXdlsRQhXwwry98PwOoTwNnwO373iGTfDZrgbymMIraEyNIaTIRp6Q2e4EC85k3NXeuTYaJgMCcyGgXUin/jO9Rs6W2IXzrfwnN1eGhL8K7rVu4EnwuO5ZnqN8Ko2965drmbt8N5TL94ezXlu6jtwRh7EPVDTce73Z/dbcaZh7R3fyBwm1zvryvezFF9/0pLIaXY1feQrsZdm+UhO0+hmNrs5lGhfqa3RW5GL7o4imP7d/8K7OjmfuuPZzayFU/N/8q6WYvcRqUmuVnp9PPd/wCt/ercJ7gEfZ9YK7njc/xvN++a+77ybjfhK3Mf+AOB9Y9w=
+  </data>
+ </layer>
+</map>

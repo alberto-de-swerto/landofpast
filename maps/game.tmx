@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="PokemonLike.tsx"/>
+ <tileset firstgid="1601" source="mammoth.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="30" height="30" opacity="0.99">
+  <data encoding="base64" compression="zlib">
+   eJx9Vz2PFEcQ7Z3eXYwdk1gGbYpWZ8lGDpGWD/NtGzgZTnLSEjEBENiBz1pSy5EzZCOGL3M/YxIbccZwOQRrQiPLsnS3Me9VV03Xzi0Eb/tjevpVvaqu6V0bhLQ2CM2pXqjR1tqmeQjpWC80APthG0A/TAcFGNeYr2/1BOko8D/WjfHsMoB9wiPgJrABfBtDOAv83Q/huxgax1GTQ8dsOZZ5jsEha7H/lOs8N+wN5D2S3xOusXKuaXsHnDeU1zi7HBx73wzYe6TtjO12fr/GOOg+jXGPgSv9rNUf4HusvJx7F4f3zfqmtfF6PAR+y+8J91HFf1HmJrTjR3D+lHmTafZJFSavsO5QFZL5thoyB/uVrquyDTOzxWz7C8+eOTsY26h+E7ClBmdDqLbCsxcbvg98UBVN0W2Ml3O0Y9mc97/Ktkl/BTkL7vTDQHjDTtaOa2rTDv6GTyvx9528prPXgONXffEvMZ47itux9MlH/gPgW9ecXJYzum9yHHWX1+tu/n6EffcDV4Hfo7QJaMi3mvWmDp5P9tb8XMihjs7e38b72+Gt/828MjbeD7H2RX8X70KOdvxN5q+dN11DO2frzl9ygmu6ry+cU/pMXtaVmO32fo3mLmeXcay65862YDVHz/RkR3G4L7GVPuuO1Q1fe+Y5hyaW38YRC5f4xjF/iKqcdTkXNr5UcltyZyPvk8ircWp5TmPuTCx+RwVjqD7J3r18DuSdXljwuZwjHyttWS/Ju5VtqI3nGgbXY7Gd/hiXz6+e2kCbvd18brYz1uv5/Arn99qSl/l3MBR9bY951mFUx11cEmfrW63yeW+2b5TYN6xbXzteasMYkvtC1pT8I39u/NltNUXMqqx1w7leKLnl88WfDcbW4qsat35qvaPmtZ0pb4PX3PpVKHln8ab948IteTXW1utsflYu1ktqVejq4OPTjbXxsbXaQr98Xtl3PmaepTpHX6MGuU7471E31lF56dc9tPeBB534mrYHd+vc+Jrxlrgv+Odrium/CfwJPHU6m41x8X4jdxDLB9vjbZq7uia6z7O2RLKzb7aYznx+oXOnMq35bMvlpfne1aEq95GZ8rQxfeJy+6LGN2qNsZyYFxvaO56dnRgWa7LX1mx+6fQhH3FXW8375HSeraq9c7WJ72GPXbnq89XXK7P5pdpz13FuKnw+W5zMXqtVHJOXa+2uxv43wKGBfD/DZ4Nyj7FaqP62vm46bo2x6cwYLb0rmw12V4uO58gQ9gLHgONDmZM8Mn+9r57X1w1yMHfY33Jxs2+D1bxp5pZ4fg6uE8BJ4NSw3HnJyzj9GkPtY2t956/E+lL+Vsvda1tzOOb/Bu33eGVQcuo0uM4AZ4FzQ7mPN90c6ObVfb3T+brxc75fpv25rX19sdoZlfcm1n8Bri+Br4DzwD9Rzk9b/17HMAJPItfHGKOtV9TfX2LR93n2N4Gz4V3E15etXJtGe7D/e8BeYAj4MfxlXOy88/9SAvcE90b+b5jArhb838A93wCIrTUD
+  </data>
+ </layer>
+</map>
